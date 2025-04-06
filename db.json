@@ -1,1 +1,5 @@
 
+[
+    { question: "O que é uma matriz identidade?", options: ["Matriz com apenas zeros", "Matriz quadrada com 1 na diagonal principal", "Matriz simétrica"], answer: 1 },
+    { question: "Qual é a operação necessária para encontrar a matriz inversa?", options: ["Multiplicação escalar", "Determinante e matriz adjunta", "Transposição"], answer: 1 }
+]
